@@ -2,7 +2,7 @@
 
 
 ## SELAMLAR HERKESE / HI EVERYONE ##
-* ⚡ I'm MERT ARAS :blush: (Student)
+* ⚡ I'm MERT ARAS (Student) :blush:
 * 🌱 Im currently learning on : PYTHON,SQL,HTML 
 * 💬 Ask me everything about : PYTHON & SQL  
 * ☕ Fun Fact : I love Hiphop Music and Coffee :)

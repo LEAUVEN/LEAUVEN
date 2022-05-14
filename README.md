@@ -5,7 +5,7 @@
 * ⚡ I'm MERT ARAS (Student) :blush:
 * 🌱 Im currently learning on : PYTHON,SQL,HTML 
 * 💬 Ask me everything about : PYTHON & SQL  
-* <font color="pink">Some Coffee :coffee: & Hiphop Music lots of `< code />` </font> 
+* <font color="pink">Some Coffee :coffee: & Hiphop Music == lots of `< code />` </font> 
 * 📫 My mail adress : aras.mert_01@metu.edu.tr
 
 ## Reach out to me

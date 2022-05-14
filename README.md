@@ -7,4 +7,4 @@
 
 ![My's github stats](https://github-readme-stats.vercel.app/api?username=Leauven&show_icons=true&theme=radical)
 
-[![Leauven'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=Leauven)](https://github.com/Leauven/github-readme-stats)
+

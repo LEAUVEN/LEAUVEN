@@ -4,7 +4,7 @@
 ## SELAMLAR HERKESE / HI EVERYONE ##
 * ⚡ I'm MERT ARAS :blush: (Student)
 * 🌱 Im currently learning on : PYTHON,SQL,HTML 
-* 💬 Ask me about everything about : PYTHON & SQL  
+* 💬 Ask me everything about : PYTHON & SQL  
 * ☕ Fun Fact : I love Hiphop Music and Coffee :)
 * 📫 My mail adress : aras.mert_01@metu.edu.tr
 

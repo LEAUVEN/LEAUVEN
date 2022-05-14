@@ -12,6 +12,7 @@
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
  
 <br />
 <br />
@@ -38,3 +39,4 @@
 
 [twitter]:https://twitter.com/MertArrass
 [linkedin]:https://www.linkedin.com/in/mert-aras-495211209/
+[instagram]: https://www.instagram.com/merrtarrass/?hl=en

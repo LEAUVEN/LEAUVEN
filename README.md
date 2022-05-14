@@ -18,7 +18,7 @@
 <br />
 
 ## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven&layout=compact&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven&count_private=true&layout=compact&theme=dark" >
 
 <br />
 <br />

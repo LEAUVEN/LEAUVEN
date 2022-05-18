@@ -20,6 +20,8 @@
 ## <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven&count_private=true&layout=compact&theme=dark" >
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven&theme=tokyonight)
+
 <br />
 <br />
 
@@ -31,9 +33,11 @@
 <br />
 <br />
 
+![](https://visitor-badge.laobi.icu/badge?page_id=Leauven.Leauven)
 
+[![Github](https://img.shields.io/github/followers/Leauven?label=Follow&style=social)](https://github.com/Leauven)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leauven&show_icons=true&theme=tokyonight)
 
 
 

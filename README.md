@@ -38,8 +38,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Leauven.Leauven)
 
 [![Github](https://img.shields.io/github/followers/Leauven?label=Follow&style=social)](https://github.com/Leauven)
-
-
+![LEAUVEN's github stats](https://github-readme-stats.vercel.app/api?username=LEAUVEN&show_icons=true&theme=highcontrast)
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 
 [twitter]:https://twitter.com/MertArrass

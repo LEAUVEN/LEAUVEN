@@ -51,3 +51,4 @@
 [twitter]:https://twitter.com/MertArrass
 [linkedin]:https://www.linkedin.com/in/mert-aras-495211209/
 [instagram]: https://www.instagram.com/merrtarrass/?hl=en
+[![LEAUVEN'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=LEAUVEN)](https://github.com/LEAUVEN/github-readme-stats)

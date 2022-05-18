@@ -16,8 +16,8 @@
 
 <br />
 <br />
-[![Leauven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leauven)](https://github.com/Leauven/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Leauven&layout=compact)](https://github.com/Leauven/github-readme-stats)
+![Leauven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leauven)](https://github.com/Leauven/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Leauven&layout=compact)](https://github.com/Leauven/github-readme-stats)
 
 
 ### My Best Friends
@@ -26,8 +26,6 @@
 
 ## <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven&count_private=true&layout=compact&theme=dark" >
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven&theme=tokyonight)
 
 <br />
 <br />

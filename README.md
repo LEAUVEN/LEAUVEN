@@ -1,7 +1,7 @@
 <img src="https://media4.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b76116b9389cfaacfa677c51f7fd2bb8000ad89578f7e&amp;rid=giphy.gif&amp;ct=g" align="right" width="400" height="250">
 
 
-## SELAMLAR HERKESE / HI EVERYONE ##
+## HI EVERYONE ##
 * ⚡ I'm MERT ARAS (Student) :blush:
 * 🌱 Im currently learning on : PYTHON,SQL,HTML 
 * 💬 Ask me everything about : PYTHON & SQL  
@@ -39,11 +39,9 @@
 
 [![Github](https://img.shields.io/github/followers/Leauven?label=Follow&style=social)](https://github.com/Leauven)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leauven&show_icons=true&theme=tokyonight)
 
 
 
 [twitter]:https://twitter.com/MertArrass
 [linkedin]:https://www.linkedin.com/in/mert-aras-495211209/
 [instagram]: https://www.instagram.com/merrtarrass/?hl=en
-[![LEAUVEN'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=LEAUVEN)](https://github.com/LEAUVEN/github-readme-stats)

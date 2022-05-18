@@ -16,8 +16,7 @@
 
 <br />
 <br />
-![Leauven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leauven)](https://github.com/Leauven/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Leauven&layout=compact)](https://github.com/Leauven/github-readme-stats)
+
 
 
 ### My Best Friends
@@ -28,11 +27,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leauven&count_private=true&layout=compact&theme=dark" >
 
 <br />
-<br />
-
 
 ## <summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Leauven&theme=dark" >
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leauven&show_icons=true&theme=tokyonight)
 
 ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Leauven)
 <br />

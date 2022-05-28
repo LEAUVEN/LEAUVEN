@@ -13,7 +13,7 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-<a href="https://www.hackerrank.com/eneskiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eneskiris" height="30" width="40" /></a>
+
 <br />
 <br />
 

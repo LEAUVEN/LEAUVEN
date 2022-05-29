@@ -40,6 +40,9 @@
 [![Github](https://img.shields.io/github/followers/Leauven?label=Follow&style=social)](https://github.com/Leauven)
 
 
+<a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+
+
 [twitter]:https://twitter.com/MertArrass
 [linkedin]:https://www.linkedin.com/in/mert-aras-495211209/
 [instagram]: https://www.instagram.com/merrtarrass/?hl=en

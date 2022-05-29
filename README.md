@@ -17,6 +17,8 @@
 [![Instagram](icons/instagram.png)](https://www.instagram.com/merrtarrass/?hl=en)
 [![Twitter](icons/twitter.png)](https://twitter.com/MertArrass)
 [![GitHub](icons/github.png)](https://github.com/LEAUVEN)
+
+<a href="https://www.hackerrank.com/LEAUVEN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="LEAUVEN" height="40" width="40" /></a>
 [![HackerRank](icons/hackerrank.png)](https://www.hackerrank.com/aras_mert_01)
 <br />
 <br />

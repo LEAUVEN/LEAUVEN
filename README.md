@@ -13,7 +13,7 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mert-aras/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/merrtarrass/?hl=en)
 [![Twitter](icons/twitter.png)](https://twitter.com/MertArrass)
-<a href="https://www.hackerrank.com/aras_mert_01" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aras_mert_01" height="32.5" width="32.5" /></a>
+<a href="https://www.hackerrank.com/aras_mert_01" target="blank"><img align="top" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aras_mert_01" height="30" width="30" /></a>
 
 <br />
 <br />

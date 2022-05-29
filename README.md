@@ -15,7 +15,7 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mert-aras/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/merrtarrass/?hl=en)
-![Twitter](icons/twitter.png)](https://twitter.com/MertArrass)
+[![Twitter](icons/twitter.png)](https://twitter.com/MertArrass)
 [![GitHub](icons/github.png)](https://github.com/LEAUVEN)
 [![HackerRank](icons/hackerrank.png)](https://www.hackerrank.com/aras_mert_01)
 <br />

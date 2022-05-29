@@ -10,9 +10,6 @@
 
 ## Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mert-aras/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/merrtarrass/?hl=en)
 [![Twitter](icons/twitter.png)](https://twitter.com/MertArrass)
@@ -47,7 +44,3 @@
 
 <a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a>
 
-
-[twitter]:https://twitter.com/MertArrass
-[linkedin]:https://www.linkedin.com/in/mert-aras-495211209/
-[instagram]: https://www.instagram.com/merrtarrass/?hl=en

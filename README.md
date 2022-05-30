@@ -41,7 +41,7 @@
 
 [![Github](https://img.shields.io/github/followers/Leauven?label=Follow&style=social)](https://github.com/Leauven)
 
-<--
+<! --
 <a href="https://www.postgresql.org" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a>
 
 -->
